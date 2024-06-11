@@ -1,13 +1,13 @@
 # Academic-Data-Hashing-Project
 
 - SOURCES
-    o preprocess.py
-    o main.py
-    o universalHashFunctions.py (όπως μας δόθηκε)
+     preprocess.py
+     main.py
+    universalHashFunctions.py (όπως μας δόθηκε)
 - EXPERIMENTS
-    o Παραχθέντα csv αρχεία με τα λεξικά userList, movieMap και movieListκαι τα μητρώα SIG για τα αρχεία δεδομένων ratings_100users.csv καιratings.csv
-    o Screenshots από την εκτέλεση της πειραματικής αξιολόγησης
-    o Εικόνες με τις γραφικές παραστάσεις των false-pos, false-neg και PRECISION, RECALL, F1 metrics
+     Παραχθέντα csv αρχεία με τα λεξικά userList, movieMap και movieListκαι τα μητρώα SIG για τα αρχεία δεδομένων ratings_100users.csv καιratings.csv
+    Screenshots από την εκτέλεση της πειραματικής αξιολόγησης
+    Εικόνες με τις γραφικές παραστάσεις των false-pos, false-neg και PRECISION, RECALL, F1 metrics
 - report.pdf
 
 - preprocess.py Το αρχείο αυτό ως command-line argument παίρνει ένα αρχείο δεδομένων <name>.csv και παράγει από αυτό τα λεξικάuserList, movieMap και movieList τα οποία γίνονται export σε csv και αποθηκεύονται στον φάκελο EXPERIMENTS. Γι αυτό το λόγο, το preprocess.py
